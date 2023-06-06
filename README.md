@@ -106,14 +106,6 @@ Dan pada link pager ubah seperti berikut.
 ![11_Lab11Web](Gambar/99.Gambar_form_pencarian-1.jpg)
 
 Gambar 5. form_pencarian_admin_index.php
-
-Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata
-kunci tertentu pada form pencarian.
-
-![11_Lab11Web](Gambar/100.Gambar_Pencarian_Data.jpg)
-
-Gambar 6. Pencarian Data
-
 **Upload Gambar**<br>
 Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali **Controller**
 Artikel, sesuaikan kode pada method **add** seperti berikut:
@@ -184,11 +176,6 @@ Saya Buat Artikel Keempat dan mengupload gambar artikel :
 
 ![11_Lab11Web](Gambar/105.Gambar_Upload_Gambar-1.jpg)
 
-Gambar 10. Upload Gambar
-
-
-![11_Lab11Web](Gambar/107.Gambar_Tambah_artikel.jpg)
-
 Disini saya sudah setting untuk tampilan saya batasi 4 halaman :
 
 Dan Selanjutnya kita buat artikel lagi dan kita buka Navigasi Halaman Ke 2 :
@@ -200,10 +187,6 @@ Dan Selanjutnya kita buat artikel lagi dan kita buka Navigasi Halaman Ke 2 :
  saya coba Cari/filter untuk Artikel Kelima :
  
  ![11_Lab11Web](Gambar/108.Gambar_Cari_artikel.jpg)
-
- **`Tampilan Artikel Di portal Berita`**
- 
-  ![11_Lab11Web](Gambar/109.Gambar_Tampilan_portal-berita.jpg)
   
   
   <hr>
